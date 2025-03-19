@@ -6,6 +6,21 @@ I am a Cybersecurity graduate with a strong interest in technology and a dedicat
 
 My career journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## Projects
+- SIEM Project
+- Cloud Project
+
+## Certifications
+<div>
+    
+<a href="https://www.credly.com/badges/1e5107ab-7fee-4cca-8506-ad9b34507f62/public_url">Microsoft Security, Compliance, and Identity Fundamentals (SC900)</a> 
+
+<a href="https://www.credly.com/badges/387c2652-7dbd-47ec-bcec-08116c0015c8/public_url">Microsoft Azure Fundamentals (AZ900)</a>
+
+ <a href="https://www.credly.com/badges/f36f4c20-a3a7-4381-9ed2-451fb7e9a2b6/public_url">ISC2 Certified in Cybersecurity (CC)</a>
+                                                                                                                                                                           
+</div>
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -37,14 +52,6 @@ My career journey has led me to develop a passion for cybersecurity, and I am no
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
    </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Microsoft_AZ_900-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft_SC_900-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2_CC-00A4EF?&style=for-the-badge&logo=ISC2&logoColor=white" />
 
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
