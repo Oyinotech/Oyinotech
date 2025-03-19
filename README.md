@@ -7,8 +7,8 @@ I am a Cybersecurity graduate with a strong interest in technology and a dedicat
 My career journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Projects
-- SIEM Project
-- Cloud Project
+<a href="https://github.com/Oyinotech/Cloud-Implementation-Project/tree/main">Cloud Implementation Project</a>
+
 
 ## Certifications
 <div>
@@ -21,16 +21,6 @@ My career journey has led me to develop a passion for cybersecurity, and I am no
                                                                                                                                                                            
 </div>
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
