@@ -12,6 +12,8 @@ My career journey has led me to develop a passion for cybersecurity, and I am no
 
 <a href="https://github.com/Oyinotech/SOC-Lab/tree/main">SOC Lab</a>
 
+<a href="https://github.com/Oyinotech/Incident-Response-Lab">Incident Response Lab</a>
+
 ## Certifications
 <div>
     
